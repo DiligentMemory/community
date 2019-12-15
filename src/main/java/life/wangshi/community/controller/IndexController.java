@@ -1,4 +1,4 @@
-package life.wangshi.community.community.controller;
+package life.wangshi.community.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

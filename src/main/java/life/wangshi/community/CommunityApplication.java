@@ -1,4 +1,4 @@
-package life.wangshi.community.community;
+package life.wangshi.community;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
